@@ -1,0 +1,10 @@
+{
+  "id": "pubit-publish",
+  "name": "PubIt",
+  "version": "0.1.1",
+  "minAppVersion": "1.0.0",
+  "author": "PubIt",
+  "authorUrl": "https://pubit.site",
+  "description": "Publish your notes to the web with zero friction",
+  "isDesktopOnly": false
+}
