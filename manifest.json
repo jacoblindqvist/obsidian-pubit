@@ -1,7 +1,7 @@
 {
   "id": "pubit-publish",
   "name": "PubIt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minAppVersion": "1.0.0",
   "author": "Joakim Lindqvist",
   "authorUrl": "https://pubit.site",
