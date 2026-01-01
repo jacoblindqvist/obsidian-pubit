@@ -1,11 +1,11 @@
 {
   "id": "pubit-publish",
-  "name": "PubIt",
-  "version": "0.3.1",
+  "name": "Pubit",
+  "version": "0.3.2",
   "minAppVersion": "1.0.0",
   "author": "Joakim Lindqvist",
   "authorUrl": "https://pubit.site",
-  "description": "Publish your notes to the web with zero friction. Tag notes with #publish, sync, and your site is live at yourname.pubit.site.",
+  "description": "Publish your notes to the web with zero friction. Add publish: true to frontmatter, sync, and your site is live at yourname.pubit.site.",
   "isDesktopOnly": false,
   "fundingUrl": "https://github.com/sponsors/jacoblindqvist"
 }
